@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.default-container {
+  max-width: 1024px;
+}
+.bg-default {
+  background-color: #f6fbff;
+}
+.bg-default-2{
+    background-color: #00252E;
+}
